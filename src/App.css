@@ -1,0 +1,14 @@
+:root{
+  --myfont: "SUSE", sans-serif;
+
+  --pr: rgb(128, 0, 128);
+  --prl: rgb(255, 178, 255);
+  --prhover: rgb(119, 2, 119);
+  --dark: rgb(34, 20, 46);
+  --darker: rgb(24, 16, 31);
+}
+
+body{
+  background-color: var(--dark);
+  font-family: var(--myfont);
+}
